@@ -32,7 +32,7 @@
 <p></p>
 
 <p></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpeshSolanki7271&show_icons=true&locale=en&layout=compact" alt="alpeshSolanki7271" /></p>
+
 
 <p></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpeshSolanki7271&show_icons=true&locale=en" alt="alpeshSolanki7271" /></p>
@@ -40,9 +40,13 @@
 
 <p></p>
 <!-- 
-<p><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15"></p> -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpeshSolanki7271&label=Profile%20views&color=0e75b6&style=flat" alt="alpeshSolanki7271" /> </p> -->
+ -->
+<!--  -->
 
 <!-- https://github-profile-trophy.vercel.app/?username=alpeshSolanki7271&column=3&margin-w=15&margin-h=15 -->
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alpeshSolanki7271&" alt="alpeshSolanki7271" /></p> -->
+<p><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15"></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alpeshSolanki7271&label=Profile%20views&color=0e75b6&style=flat" alt="alpeshSolanki7271" /> </p>
+
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alpeshSolanki7271&" alt="alpeshSolanki7271" /></p> 
