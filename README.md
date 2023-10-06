@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Android Projects**
 
-- 🌱 I’m currently learning **Flutter, Figma, Kotlin**
+- 🌱 I’m currently learning **Flutter, Figma, Kotlin, Jetpack Compose**
 
 - 📝 Application On Google Playstore [Under Creatures](https://play.google.com/store/apps/developer?id=Creatures)
 
